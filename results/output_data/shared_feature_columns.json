@@ -1,0 +1,7 @@
+[
+  "ecg_mean_hr",
+  "ecg_mean_rr",
+  "ecg_pnn50",
+  "ecg_rmssd",
+  "ecg_sdnn"
+]
